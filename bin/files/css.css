@@ -1,0 +1,11 @@
+/* File .css */
+/* @author Vicentini Elia, Olivieri Matteo, Gandini Simone */
+
+h1, p, td { 
+       font-family: arial; 
+}
+
+th { 
+       font-family: arial; 
+       font-style: bold; 
+}
